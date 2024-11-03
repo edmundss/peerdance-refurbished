@@ -1,0 +1,34 @@
+body #app_wrapper #app_sidebar-left #app_main-menu-wrapper {
+    background-color: #fff;
+}
+
+body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav-pills>li.active>a, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav-pills>li.active>a:focus, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav-pills>li.active>a:hover {
+    background-color: #EEF5F9;
+    color: #688696;
+    border-left-color: #ec407a;
+}
+
+body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav .nav-sub, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav>li>a:hover {
+    background-color: #EEF5F9;
+}
+
+body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav .open>a, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav .open>a:focus, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav .open>a:hover, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav-pills>li>a:active, body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav-pills>li>a:hover {
+    color: #688696;
+    background-color: #EEF5F9;
+}
+
+body #app_wrapper #app_sidebar-left #logo_wrapper {
+    background-color: #ffffff;
+}
+
+#logo_wrapper ul li h1.brand-text {
+    font-size: 1.0625em;
+    padding: 5px 0 0 46px;
+    letter-spacing: 0.07em;
+    font-weight: 300;
+    color: #688696;
+}
+
+body #app_wrapper #app_sidebar-left #app_main-menu-wrapper .nav>li>a:focus {
+    background-color: #fff;
+}
